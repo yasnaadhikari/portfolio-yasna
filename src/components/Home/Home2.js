@@ -22,26 +22,25 @@ function Home2() {
             <p className="home-about-body" data-aos="fade-up">
               <br />
               I'm a <i className="primary-header">
-                Self-Taught Web Developer
+                Self-Taught Tester
               </i>{" "}
-              who loves solving problems and building Websites.
+              who loves solving problems, testing applications and automating them.
               <br />
               <br />I am passionate about{" "}
               <i className="primary-header">technologies</i> and love to learn
               new things.
               <br />
-              <br />I am more interested in building new
+              <br />I am more interested in testing new kinds of
               <i>
                 <i className="primary-header">Web Technologies and Products.</i>
               </i>
               <br />
-              <br />I always apply my experience in developing products with{" "}
-              <i className="primary-header">Node.js</i> and Modern Javascript
-              Library and Framework like
-              <i className="primary-header"> React.js.</i>
+              <br />I always apply my experience in testing products with{" "}
+              <i className="primary-header">Selenium</i> and Modern testing Tools
+              <i className="primary-header"> TestSigma.</i>
               <br />
               <br />
-              Currently expanding my portfolio by building more{" "}
+              Currently expanding my portfolio by testing more{" "}
               <i className="primary-header">projects </i>projects that I can add
               here.
             </p>
@@ -64,7 +63,7 @@ function Home2() {
             </h1>
             <p data-aos="fade-left">Feel free to connect with me</p>
             <ul className="home-about-social-links" data-aos="fade-up">
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://github.com/Rahuljha4171"
                   target="_blank"
@@ -93,13 +92,13 @@ function Home2() {
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                   aria-label="email"
-                >
-                  <AiOutlineMail />
-                </a>
-              </li>
+                > */}
+                  {/* <AiOutlineMail />
+                </a> */}
+              {/* </li> */}
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/Rahuljha4171/"
+                  href="https://www.linkedin.com/in/yasna-adhikari-82aa8a160/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -110,7 +109,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/dead.programmer/"
+                  href="https://www.instagram.com/yasnadon/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

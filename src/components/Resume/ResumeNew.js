@@ -9,7 +9,7 @@ import ScrollToTop from "../ScrollToTop/ScrollToTop";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://drive.google.com/file/d/18iPMrbAeIayZOEIuW_VeZie8X1FO4ytG/view?usp=sharing";
+  "src\Assets\Yasna Resume.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
@@ -24,7 +24,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href="https://drive.google.com/file/d/18iPMrbAeIayZOEIuW_VeZie8X1FO4ytG/view?usp=sharing"
+            href="src\Assets\Yasna Resume.pdf"
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
@@ -42,7 +42,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href="https://drive.google.com/file/d/18iPMrbAeIayZOEIuW_VeZie8X1FO4ytG/view?usp=sharing"
+            href="src\Assets\Yasna Resume.pdf"
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
