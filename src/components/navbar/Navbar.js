@@ -104,15 +104,15 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
+            {/* <Nav.Item>
               <Nav.Link
-                href="https://blog.rahuljha.tech/"
+                href="https://blog.yasna.tech/"
                 target="_blank"
                 rel="noreferrer"
               >
                 Blogs
               </Nav.Link>
-            </Nav.Item>
+            </Nav.Item> */}
           </Nav>
 
           <Nav.Item>

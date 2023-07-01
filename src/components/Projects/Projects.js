@@ -18,7 +18,7 @@ function Projects() {
           My Recent <strong className="Fluorescent-Blue">Works </strong>
         </h1>
         <p>Here are a few projects I've worked on recently.</p>
-        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+        {/* <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={6} lg={4} className="project-card">
             <ProjectCard
               imgPath={Ecart}
@@ -56,8 +56,8 @@ function Projects() {
               ghLink="https://github.com/rahuljha4171/Expense-Tracker"
               demoLink="https://expense-tracker.rahuljha4171.vercel.app/"
             />
-          </Col>
-        </Row>
+          </Col> */}
+        {/* </Row> */}
       </Container>
       <ScrollToTop />
     </Container>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h2 align="center">
   Rahul Jha | Portfolio Website<br/>
   <a href="https://www.rahuljha.tech/" target="_blank">rahuljha.tech</a>
@@ -70,3 +71,5 @@ You will find all the components used and you can edit your information accordin
 <p align="center">
 Give a ⭐ if you like this website!
 </p>
+=======
+>>>>>>> 29832d9b79e32c451e2dacbcc8152b0d98f7ce42
